@@ -1,4 +1,4 @@
-# - Reducechurn Project
+#  Reducechurn Project
 
 **Problem Statement:**  
 Customer churn, or the rate at which customers leave a company, is a critical issue impacting business growth and profitability. A high churn rate indicates challenges in customer retention, signaling that the company may be struggling to keep its customers engaged and satisfied. Addressing churn is crucial for maintaining a stable customer base and ensuring long-term success.
